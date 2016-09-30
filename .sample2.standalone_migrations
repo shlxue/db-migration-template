@@ -1,0 +1,4 @@
+db:
+  seeds: db/sample2/seeds.rb
+  migrate: db/sample2/migrate/
+  schema: db/sample2/schema.rb

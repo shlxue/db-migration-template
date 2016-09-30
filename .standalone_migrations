@@ -1,0 +1,5 @@
+# default database
+db:
+  seeds: db/sample/seeds.rb
+  migrate: db/sample/migrate/
+  schema: db/sample/schema.rb
